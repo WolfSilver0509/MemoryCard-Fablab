@@ -1,6 +1,6 @@
 <h3 align="center"> Memory Game Project </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wolfsilver0509&label=Profile%20views&color=0e75b6&style=flat" alt="wolfsilver0509" /> </p>
+
 
 - 🔭 I’m currently working on **Memory Card Game**
 
